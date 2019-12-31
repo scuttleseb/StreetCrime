@@ -1,0 +1,28 @@
+{
+  "name": "streetcrime",
+  "version": "1.0.0",
+  "description": "Street Crime Data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scuttleseb/StreetCrime.git"
+  },
+  "keywords": [
+    "Street",
+    "Crime"
+  ],
+  "author": "Seb Chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scuttleseb/StreetCrime/issues"
+  },
+  "homepage": "https://github.com/scuttleseb/StreetCrime#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "superagent": "^5.1.0"
+  }
+}
